@@ -1,12 +1,13 @@
-## Projeto 4 de TI326 - Inteligência Artificial
+## Fourth project of the AI subject
 
-## 🧑‍🎓 Integrantes
+## 🧑‍🎓 Members
 
-* Pedro Henrique Batista Nunes - 22147
-* Saulo Nathan da Silva - 22149
+* Pedro Henrique Batista Nunes
+* Saulo Nathan da Silva
 
-## 📝 Descrição
+## 📝 Description
+This is a Program that uses plays Nim, choosing each action using SARSA algorithm, or Q-Learning Algorithm.
+The Jupyter Notebook file generates a graph comparing both algorithms against eachother.
+## 📋 License
 
-## 📋 Licença
-
-Este projeto utiliza a licença [MIT](https://opensource.org/license/mit).
+This projects uses MIT license [MIT](https://opensource.org/license/mit).
